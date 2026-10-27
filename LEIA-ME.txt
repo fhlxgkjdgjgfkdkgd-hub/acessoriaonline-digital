@@ -1,0 +1,26 @@
+SITE VIVIANE CORREA DA SILVA — INSTRUÇÕES
+
+Arquivos:
+- index.html: página principal
+- sobre.html: página Sobre
+- politica-de-privacidade.html: Política de Privacidade
+- termos-de-uso.html: Termos de Uso
+- styles.css: estilos personalizados
+- script.js: interações simples
+- assets/: imagens fornecidas e usadas no site
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Abra index.html no navegador.
+3. Para publicar, envie todos os arquivos e a pasta assets mantendo a mesma estrutura para seu serviço de hospedagem.
+
+Antes de publicar:
+- Confirme se telefone, e-mail, endereço, nome empresarial e CNPJ estão corretos e atualizados.
+- A situação cadastral informada pelo usuário era INAPTA. Regularize e confirme o cadastro antes de anunciar.
+- Confirme que os serviços descritos são efetivamente oferecidos.
+- Verifique os direitos de uso comercial das fotografias. Algumas imagens podem ser de terceiros; a foto Getty com marca d'água foi intencionalmente excluída.
+- Revise a Política de Privacidade de acordo com as ferramentas realmente instaladas (por exemplo, Google Ads, Analytics, cookies, formulários).
+- O site não garante aprovação no Google Ads. A aprovação depende também da conformidade da empresa, das páginas de destino, dos anúncios e das políticas aplicáveis.
+
+Tecnologias:
+Bootstrap 5.3.3 e Bootstrap Icons carregados via CDN; é necessária conexão à internet para esses recursos.
