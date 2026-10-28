@@ -1,0 +1,21 @@
+CLARICE SILVA HAIR LTDA — SITE HTML
+
+Arquivos:
+- index.html — página inicial com serviços, sobre, galeria, perguntas frequentes e contato
+- sobre.html — informações institucionais
+- politica-de-privacidade.html — política de privacidade
+- termos-de-uso.html — termos de uso
+- styles.css — estilos responsivos
+- script.js — menu móvel e ano automático
+
+Como abrir:
+1. Extraia o arquivo ZIP mantendo todos os arquivos juntos.
+2. Abra index.html no navegador.
+3. Para publicar, envie os arquivos para a hospedagem mantendo a estrutura de pastas.
+
+Observações:
+- Imagens, fontes e ícones carregam de serviços externos e precisam de internet.
+- As imagens são ilustrativas; confirme as licenças de uso comercial antes de publicar.
+- Revise as páginas legais para que correspondam às práticas reais e ferramentas instaladas.
+- Confira os dados empresariais e o endereço antes de anunciar.
+- Um site completo não garante aprovação no Google Ads; a empresa, os anúncios e a página de destino devem cumprir as políticas aplicáveis.
